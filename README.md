@@ -1,4 +1,5 @@
 # Exe_expendedora
+Beginning users
 If you use pip, you can install NumPy and pandas with:
 pip install pandas
 pip install numpy
